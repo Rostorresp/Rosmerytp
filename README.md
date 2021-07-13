@@ -9,12 +9,10 @@
 
 💪🏼 Actualmente estoy estudiando para serlo
 
-🕵 estoy en aprendizajes de diferentes lenguajes y herramientas, entre ellos: 
+🕵 estoy aprendiendo de manera autodidacta lenguajes y herramientas, entre ellos: 
 * HTML
 * CSS
 * JavaScript
-* 
-* 
 
  
 ✨ Me gusta mucho el diseño en general.
