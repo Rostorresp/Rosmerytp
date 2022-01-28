@@ -24,7 +24,7 @@
 
 
 
-![Ros's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rosmerytp&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosmerytp&layout=compact&theme=buefy)](https://github.com/Rosmerytp/github-readme-stats)
+![Ros's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rostorresp&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rostorresp&layout=compact&theme=buefy)](https://github.com/Rostorresp/github-readme-stats)
 
 
 
